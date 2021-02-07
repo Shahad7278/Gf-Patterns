@@ -1,11 +1,10 @@
 {
     "flags": "-iE",
-     "patterns": ["authorize_callback=",
+     "patterns": [
+"authorize_callback=",
 "callback=",
 "callback_url=",
-"cgi-bin/redirect.cgi
 "cgi-bin/redirect.cgi",
-"cgi-bin/redirect.cgi?",
 "checkout=",
 "checkout_url=",
 "continue=",
